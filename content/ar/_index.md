@@ -46,9 +46,9 @@ header:
     paddingY: 0
     align: center
     title:
-      - Code with Barghout
+      - الكود مع برغوت
     subtitle:
-      - Challenge your limits, don't limit your challenges
+      - تحدى حدودك, لا تحد تحدياتك
     titleColor: 
     titleShadow: false
     titleFontSize: 55

@@ -1,4 +1,4 @@
-logoText = "Zzo"
+logoText = ""
 logoType = "short" # long, short
 description = "Ayman Barghout Personal Website and Blog"
 custom_css = []
@@ -7,13 +7,13 @@ useFaviconGenerator = true # https://www.favicon-generator.org/
 meta_image = ""
 themecolor = ""
 
-themeOptions = ["dark", "light","solarized", "kimbie"]
+themeOptions = ["dark", "light","solarized"]
 notAllowedTypesInHome = ["about", "showcase"]
 notAllowedTypesInHomeSidebar = ["about", "showcase"]
 notAllowedTypesInArchive = ["about", "showcase"]
 notAllowedTypesInHomeFeed = ["about", "showcase"]
 
-viewportSize = "wide" # widest, wider, wide, normal, narrow
+viewportSize = "wider" # widest, wider, wide, normal, narrow
 enableUiAnimation = true
 hideSingleContentsWhenJSDisabled = false
 enablePinnedPosts = true
@@ -24,11 +24,11 @@ enableAppbarSearchIcon = true
 enableAppbarLangIcon = true
 
 # header
-homeHeaderType = "text" # text, img, slide, typewriter
+homeHeaderType = "img" # text, img, slide, typewriter
 hideHomeHeaderWhenMobile = false
 
 # menu
-showMobileMenuTerms = []
+showMobileMenuTerms = ["tags", "categories", "series"]
 
 # body
 enableBreadcrumb = true

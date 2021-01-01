@@ -1,0 +1,119 @@
+[search-placeholder]
+other = "ابحث"
+
+[summary-dateformat]
+other = "2 Jan, 2006"
+
+[reading-time]
+other = "د قراءة"
+
+[tags]
+other = "التصنيفات"
+
+[categories]
+other = "الفئات"
+
+[series]
+other = "سلسلة"
+
+[archive-dateformat]
+other = "2 Jan"
+
+[talks-dateformat]
+other = "2 Jan"
+
+[single-dateformat]
+other = "2 Jan, 2006"
+
+[pub-dateformat]
+other = "02-01-2006"
+
+[resume-dateformat]
+other = "Jan 2006"
+
+[single-related]
+other = "أقرأ أيضاً"
+
+[single-writtenBy]
+other = "كتب بواسطة"
+
+[toc-label]
+other = "محتوى المقال"
+
+[counter-site-pv]
+other = "عدد المشاهدات"
+
+[counter-site-uv]
+other = "عدد الزوار"
+
+[counter-page-pv]
+other = "مشاهدة"
+
+[donate-message]
+other = "أدعم الكاتب عن طريق"
+
+[share-message]
+other = "شارك عن طريق"
+
+[contact-name]
+other = "الأسم"
+
+[contact-email]
+other = "البريد الإلكتروني"
+
+[contact-tel]
+other = "الهاتف"
+
+[contact-file]
+other = "ملف"
+
+[contact-message]
+other = "رسالة"
+
+[contact-send]
+other = "أرسل"
+
+[contact-browse]
+other = "تصفح"
+
+[tooltip-home]
+other = "الرئيسية"
+
+[tooltip-written]
+other = "كتب في"
+
+[tooltip-modified]
+other = "عدل في"
+
+[tooltip-reading-time]
+other = "وقت القراءة"
+
+[showcase-overview]
+other = "نظرة عامة"
+
+[showcase-pinned]
+other = "مثبت"
+
+[nojs-message]
+other = "هذه الصفحة تكون في أبهى صورة لها عند تشغيلك للجافاسكريبت"
+
+[posts-by-order]
+other = "أفضل المقالات"
+
+[skin-dark]
+other = "ليلي"
+
+[skin-light]
+other = "نهاري"
+
+[skin-hacker]
+other = "هاكر"
+
+[skin-solarized]
+other = "شمسي"
+
+[skin-kimbie]
+other = "كيمبي"
+
+[no-contents]
+other = "لا يوجد شيئ ليعرض هنا"

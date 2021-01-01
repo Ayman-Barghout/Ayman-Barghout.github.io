@@ -1,27 +1,30 @@
 +++
 title = "About"
-description = "Hugo, the world’s fastest framework for building websites"
+description = "Ayman Barghout about me"
 type = "about"
-date = "2019-02-28"
+date = "2020-12-31"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+My name is Ayman Barghout, I am an Egyptian software developer, I am happiest when writing high-quality code to produce elegant applications that people can benefit from.
 
-Hugo makes use of a variety of open source projects including:
+I am currently interested in Google's Flutter SDK for building cross-platform native applications that are performant and look slick.
 
-* https://github.com/russross/blackfriday
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+## Education and journey:
+- Graduated with a Bachelor's degree in Pharmacy yet my passion is software engineering.
+- Studied programming on and off since I was in first year of college as a hobby (before 2013)
+- Took courses for many languages including Java, Python and JavaScript.
+- Finished the milestones for [One Million Arab Coders](https://www.arabcoders.ae/) Full-stack track.
+- Graduated from App Brewery's Flutter bootcamp in November 2019.
+- Created my first published application using Google's Flutter SDK [Urban Dictionary](https://play.google.com/store/apps/details?id=com.pocean.urban_dict_slang)
+- I graduated [Egypt's FWD Udacity's nanodegree](https://egfwd.com/) for Advanced Web Development.
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+## Professional Experience:
+- Freelance React Developer @ [Upwork](https://www.upwork.com). (April 2019 - September 2019).
+- Software Engineer (Flutter Developer) @ [Kortobaa Integrated Solutions](https://kortobaa.com/) (January 2020 - Present).
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+## Certificates: 
+![OMAC](https://imgur.com/HYabKzal.png)
+![AppBrwery](https://imgur.com/Ad05oANl.png)
+![egFWD](https://imgur.com/vqzqIkm.png)
 
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
-
-
-
+If you have reached that far thanks for your time, you can find my work on [Github](https://github.com/ayman-Barghout), follow me on [Twitter](https://twitter.com/BarghoutAyman) or befriend me on [Facebook](https://www.facebook.com/ayman.barghout1).
