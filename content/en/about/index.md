@@ -5,7 +5,7 @@ type = "about"
 date = "2020-12-31"
 +++
 
-My name is Ayman Barghout, I am an Egyptian software developer, I am happiest when writing high-quality code to produce elegant applications that people can benefit from.
+An Egyptian software developer, I am happiest when writing high-quality code to produce elegant applications that people can benefit from.
 
 I am currently interested in Google's Flutter SDK for building cross-platform native applications that are performant and look slick.
 
