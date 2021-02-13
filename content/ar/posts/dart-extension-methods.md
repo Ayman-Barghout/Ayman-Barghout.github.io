@@ -16,6 +16,8 @@ categories:
 image: images/hello-world.png
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/24kyvlku7HI" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## مقدمة 
 اكيد وانت بتكتب كود فلاتر و بتجيب طول الشاشة قابلت السطر ده `MediaQuery.of(context).size.height` لو اتمنيت يكون أبسط و أوضح زي `context.height` أو استخدمت باكدج بتعمل كده و عايز تعرف ازاي فالحل عن طريق extension methods و ده موضوعنا النهاردة.
 ## ليه الـ Extension methods
@@ -218,7 +220,7 @@ extension ListExtensions<T> on List<T> {
 ```dart:override_error.dart
 extension StringExtensions on String{
   @override
-  int codeUnitAt (int index) => ....; // The method doesn't override an inherited method
+  String toString () => this; // Extensions can't declare members with the same name as a member declared by 'Object'
 }
 ```
 4. لو عندنا كذا `extension` بينفذوا نفس الـ `Method` ممكن نعمل `hide` للـ Extension اللي مش محتاجينه, أو نستخدم الـ Extension كإنه `Wrapper class` بنمرر فيه الـ object اللي عايزين نستخدم عليه الـ `method` زي المثال ده. 

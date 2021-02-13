@@ -16,6 +16,8 @@ categories:
 image: images/hello-world.png
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/24kyvlku7HI" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Introduction
 While coding using Flutter you must have wrote that code to get the screen's height `MediaQuery.of(context).size.height` if you have wished it could be shorter like `context.height` or you have used a package that offers such code then this article about `extension methods` is for you.
 ## Why extension methods?
@@ -230,7 +232,7 @@ extension ListExtensions<T> on List<T> {
 ```dart:override_error.dart
 extension StringExtensions on String{
   @override
-  int codeUnitAt (int index) => ....; // The method doesn't override an inherited method
+  String toString () => this; // Extensions can't declare members with the same name as a member declared by 'Object'
 }
 ```
 4. If we have mutiple `extensions` with the same name we can either `hide` the one we don't need or use extensions like `Wrapper class` if we need to use both of them in the same file.
