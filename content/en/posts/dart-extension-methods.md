@@ -16,7 +16,7 @@ categories:
 image: images/hello-world.png
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/24kyvlku7HI" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< youtube id="24kyvlku7HI" >}}
 
 ## Introduction
 While coding using Flutter you must have wrote that code to get the screen's height `MediaQuery.of(context).size.height` if you have wished it could be shorter like `context.height` or you have used a package that offers such code then this article about `extension methods` is for you.

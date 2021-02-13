@@ -16,7 +16,7 @@ categories:
 image: images/hello-world.png
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/24kyvlku7HI" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< youtube id="24kyvlku7HI" >}}
 
 ## مقدمة 
 اكيد وانت بتكتب كود فلاتر و بتجيب طول الشاشة قابلت السطر ده `MediaQuery.of(context).size.height` لو اتمنيت يكون أبسط و أوضح زي `context.height` أو استخدمت باكدج بتعمل كده و عايز تعرف ازاي فالحل عن طريق extension methods و ده موضوعنا النهاردة.
