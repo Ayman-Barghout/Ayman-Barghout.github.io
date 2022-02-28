@@ -1,6 +1,6 @@
 ---
 title: "Extension methods in Flutter"
-date: 2019-12-18T10:33:41+09:00
+date: 2021-02-12T10:33:41+09:00
 description: "How to use extension methods to make your flutter code better"
 draft: false
 hideToc: false

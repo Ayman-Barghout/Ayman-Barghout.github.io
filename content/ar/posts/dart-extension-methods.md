@@ -1,6 +1,6 @@
 ---
 title: "فلاتر و الـ extension methods"
-date: 2019-12-18T10:33:41+09:00
+date: 2021-02-12T10:33:41+09:00
 description: "Extension methods فلاتر و كيفية تسهيل الكود بإستخدام"
 draft: false
 hideToc: false
